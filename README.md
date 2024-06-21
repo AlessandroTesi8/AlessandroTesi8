@@ -24,7 +24,6 @@
 
 ### 📫 How to reach me:
 - 📧 Email: [tesi.alessandro88@gmail.com](mailto:tesi.alessandro88@gmail.com)
-- 📞 Phone: +39 342 747 4077
 - 🔗 LinkedIn: [Alessandro Tesi](https://www.linkedin.com/in/alessandro-tesi-18b588291/)
 - 🐦 GitHub: [AlessandroTesi8](https://github.com/AlessandroTesi8)
 
