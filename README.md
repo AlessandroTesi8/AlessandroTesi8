@@ -3,8 +3,6 @@
 ### Alessandro Tesi
 
 🎓 **BSc in Artificial Intelligence Student** - Milano Statale University, Pavia University, Bicocca University  
-🥇 **Competitive Achiever** - First place in Physics and Mathematics Olympiads  
-👨‍💻 **Head of IT at JECO** - Spearheading innovative AI and Machine Learning solutions  
 🔬 **Research and Development** - Specialized in Machine Learning, Deep Learning, and Quantum Computing  
 
 ---
@@ -28,9 +26,6 @@
 - 🐦 GitHub: [AlessandroTesi8](https://github.com/AlessandroTesi8)
 
 ---
-
-🌍 *Let's connect and collaborate to push the boundaries of what AI can achieve!*  
-
 
 <!---
 AlessandroTesi8/AlessandroTesi8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
