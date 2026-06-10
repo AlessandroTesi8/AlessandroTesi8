@@ -1,33 +1,57 @@
-# 👋 Welcome to My GitHub Profile!
+<h1 align="center">Hi, I'm Alessandro Tesi 👋</h1>
 
-### Alessandro Tesi
+<p align="center">
+  <b>Quantum Machine Learning Researcher · MSc Artificial Intelligence @ University of Pisa</b><br>
+  Building at the intersection of <b>Deep Learning</b>, <b>Transformers</b> and <b>Quantum Computing</b>.
+</p>
 
-🎓 **BSc in Artificial Intelligence Student** - Milano Statale University, Pavia University, Bicocca University  
-🔬 **Research and Development** - Specialized in Machine Learning, Deep Learning, and Quantum Computing  
-
----
-
-### 🌱 I'm currently learning:
-- Advanced Machine Learning Techniques
-- Deep Neural Network Architectures
-- Quantum Mechanics for AI Applications
-
-### 👀 I’m interested in:
-- Developing predictive systems using AI
-- Exploring the integration of Quantum Computing with AI
-
-### 💞️ I’m looking to collaborate on:
-- AI projects that are at the intersection of theory and practical application
-- Initiatives to drive AI education and understanding through community engagement
-
-### 📫 How to reach me:
-- 📧 Email: [tesi.alessandro88@gmail.com](mailto:tesi.alessandro88@gmail.com)
-- 🔗 LinkedIn: [Alessandro Tesi](https://www.linkedin.com/in/alessandro-tesi-18b588291/)
-- 🐦 GitHub: [AlessandroTesi8](https://github.com/AlessandroTesi8)
+<p align="center">
+  <a href="https://www.linkedin.com/in/alessandro-tesi-18b588291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:tesi.alessandro88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
+
+### 🧠 About me
+
+I'm an MSc student in **Computer Science (AI curriculum)** at the **University of Pisa**, after a BSc in **Artificial Intelligence** (Pavia / Milano Statale / Milano Bicocca, 108/110, physics track).
+
+I work as a **Quantum Machine Learning researcher and mentor** for **[ML4SCI](https://ml4sci.org/)** (CERN-affiliated) through **Google Summer of Code** — I started as a mentee in 2024 and I'm a **mentor in 2026**. My research lives where modern deep learning meets quantum computing, mostly applied to **High Energy Physics**.
+
+### 🔬 What I'm into right now
+
+- **Deep Learning for Graphs** — graph structures are everywhere in High Energy Physics and molecular generation. I want to push quantum-enhanced and reservoir-based models on graph data.
+- **Transformers & Attention** — from my BSc thesis on attention for SWIN Transformers to a peer-reviewed paper on **Quantum Attention** for Vision Transformers.
+- **Quantum-Enhanced Machine Learning** — hybrid quantum-classical models, variational circuits, and running real workloads on actual quantum hardware.
+
+### ⭐ Highlights
+
+- 📄 **Peer-reviewed publication** — *Quantum Attention for Vision Transformers in High Energy Physics*, QC+AI 2025 Workshop @ **AAAI**.
+- 🥇 **1st place — Junction 2026** (Helsinki) — built a Quantum Option Pricer on **real quantum hardware** (IBM Heron r3, IQM Q50 via the LUMI supercomputer).
+- 🥉 **3rd place — Microsoft × Humanitas Hackathon for Oncology** — *DeepCox* deep survival-analysis model.
+- 🔭 **GSoC @ ML4SCI** — Hybrid Quantum Transformers for CMS QCD jet classification, trained on the **NERSC Perlmutter** supercomputer.
+- 📊 **GRE Quantitative Reasoning: 170/170** (perfect score).
+
+### 🛠️ Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow%20Quantum-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white">
+  <img src="https://img.shields.io/badge/PennyLane-39B54A?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Slurm%20%2F%20HPC-2C3E50?style=flat">
+</p>
+
+### 📫 Reach me
+
+- 📧 **Email:** [tesi.alessandro88@gmail.com](mailto:tesi.alessandro88@gmail.com)
+- 🔗 **LinkedIn:** [alessandro-tesi](https://www.linkedin.com/in/alessandro-tesi-18b588291/)
 
 <!---
 AlessandroTesi8/AlessandroTesi8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
