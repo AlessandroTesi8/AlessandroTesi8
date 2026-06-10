@@ -16,20 +16,21 @@
 
 I'm an MSc student in **Computer Science (AI curriculum)** at the **University of Pisa**, after a BSc in **Artificial Intelligence** (Pavia / Milano Statale / Milano Bicocca, 108/110, physics track).
 
-I work as a **Quantum Machine Learning researcher and mentor** for **[ML4SCI](https://ml4sci.org/)** (CERN-affiliated) through **Google Summer of Code** — I started as a mentee in 2024 and I'm a **mentor in 2026**. My research lives where modern deep learning meets quantum computing, mostly applied to **High Energy Physics**.
+I work as a **Quantum Machine Learning researcher and mentor** for **[ML4SCI](https://ml4sci.org/)** (CERN-affiliated) through **Google Summer of Code**. I started as a mentee in 2024 and I'm a **mentor in 2026**. My work sits where deep learning meets quantum computing, mostly applied to **High Energy Physics**.
 
 ### 🔬 What I'm into right now
 
-- **Deep Learning for Graphs** — graph structures are everywhere in High Energy Physics and molecular generation. I want to push quantum-enhanced and reservoir-based models on graph data.
-- **Transformers & Attention** — from my BSc thesis on attention for SWIN Transformers to a peer-reviewed paper on **Quantum Attention** for Vision Transformers.
-- **Quantum-Enhanced Machine Learning** — hybrid quantum-classical models, variational circuits, and running real workloads on actual quantum hardware.
+- **Deep Learning for Graphs.** Graph structures are everywhere in High Energy Physics and molecular generation. I want to push quantum-enhanced and reservoir-based models on graph data.
+- **Transformers & Attention.** From my BSc thesis on attention for SWIN Transformers to a peer-reviewed paper on **Quantum Attention** for Vision Transformers.
+- **Quantum-Enhanced Machine Learning.** Hybrid quantum-classical models, variational quantum circuits and eigensolvers (VQE), quantum reservoir computing, and running real workloads on actual quantum hardware.
 
 ### ⭐ Highlights
 
-- 📄 **Peer-reviewed publication** — *Quantum Attention for Vision Transformers in High Energy Physics*, QC+AI 2025 Workshop @ **AAAI**.
-- 🥇 **1st place — Junction 2026** (Helsinki) — built a Quantum Option Pricer on **real quantum hardware** (IBM Heron r3, IQM Q50 via the LUMI supercomputer).
-- 🥉 **3rd place — Microsoft × Humanitas Hackathon for Oncology** — *DeepCox* deep survival-analysis model.
-- 🔭 **GSoC @ ML4SCI** — Hybrid Quantum Transformers for CMS QCD jet classification, trained on the **NERSC Perlmutter** supercomputer.
+- 📄 **Peer-reviewed publication:** *Quantum Attention for Vision Transformers in High Energy Physics*, QC+AI 2025 Workshop @ **AAAI**.
+- 🥇 **1st place, Junction 2026** (Helsinki): a Quantum Option Pricer running on **real quantum hardware** (IBM Heron r3, IQM Q50 via the LUMI supercomputer).
+- 🥉 **3rd place, Microsoft × Humanitas Hackathon for Oncology:** *DeepCox*, a deep survival-analysis model.
+- 🔭 **GSoC @ ML4SCI:** Hybrid Quantum Transformers for CMS QCD jet classification, trained on the **NERSC Perlmutter** supercomputer.
+- 🏅 **Physics & Maths Olympiads:** reached the regional stage, ranked top physics and maths student of my school.
 - 📊 **GRE Quantitative Reasoning: 170/170** (perfect score).
 
 ### 🛠️ Tech stack
